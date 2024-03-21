@@ -1,2 +1,2 @@
 # ImpactInsight
-Python app predicting social media post popularity for data-driven engagement strategies.
+Python app for predicting flight prices using machine learning.
